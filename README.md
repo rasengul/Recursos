@@ -55,6 +55,6 @@
 # video 1
 
 
-![mirar aqui](https://youtu.be/lWeEF5fmdko?si=-NfISoSXl4U1OFTY)
+![mirar aqui](https://youtube/lWeEF5fmdko?si=-NfISoSXl4U1OFTY)
 
 
