@@ -1,5 +1,7 @@
 # ¿ Que es una Base de datos?
+son tablas de informacion o de archivos almacenados que se utiliza para trabajos para facilitar el trabajo de identificacion a atravez de un id unico para cada persona y otro para las mascotas 
 
+ejm: antonio id=31684-a y para juan (osea la mascota) id: 21786-b
 
 
 
@@ -21,7 +23,7 @@ ejm: en minecraft los numeros de los bloques esta en int lo que singnifica que e
 ###  ¿El concepto de las bases de datos son un programa eso es verdad?
 tanto la base de datos como las aplicasiones son un conjunto de sprits que sirven como bloque de legos para generar un programa o una base de datos 
 
-(veo que esta pregunta ahora esto no tiene puntaje por el momento :( )
+(veo que esta pregunta ahora no tiene puntaje por el momento :( )
 
 ## El "Dato" vs. "Realidad": En la pizarra se propuso usar `FLOAT` con el valor `0.5` para representar a un cachorro de 6 meses. Si el sistema debe enviar un saludo automático de "Feliz Cumpleaños" cada año, ¿qué problema técnico enfrentaríamos si solo guardamos `0.5` y no la fecha de nacimiento (`DATE`)? 
 
