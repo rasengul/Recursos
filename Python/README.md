@@ -1,5 +1,5 @@
 # esto es para el motor grafico 
-cada parte de codigo del motor grafico estara aqui con enlaces 
+cada parte de codigo del motor grafico estara aqui con enlaces aunque me gustaria conocer mas el codigo de Python sin ayuda de la ia 
 
 
 
