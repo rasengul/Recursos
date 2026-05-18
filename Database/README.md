@@ -1,3 +1,3 @@
 # enlaces 
-[LogicDesing](LogicDesing.md)
-[cardinales](Cardinary/README.md)
+- [LogicDesing](LogicDesing.md)
+- [cardinales](Cardinary/README.md)
