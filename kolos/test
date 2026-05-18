@@ -9,7 +9,7 @@ complejo como css, unity, ptyton
 ##css
 el int funciona pero debes tener (;) en la parte para finalizar el comando
 delay es como (espera x segundos en scratch) ejemplo: delay 1000 es esperar 1 segundo 
-low y high es como (0 y 1) 
+low y high es como (0 y 1, true t false) 
 
 ##Python
 srt
