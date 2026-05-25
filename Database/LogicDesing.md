@@ -26,10 +26,9 @@ tanto la base de datos como las aplicasiones son un conjunto de sprits que sirve
 (veo que esta pregunta ahora no tiene puntaje por el momento :( )
 
 ## El "Dato" vs. "Realidad": En la pizarra se propuso usar `FLOAT` con el valor `0.5` para representar a un cachorro de 6 meses. Si el sistema debe enviar un saludo automático de "Feliz Cumpleaños" cada año, ¿qué problema técnico enfrentaríamos si solo guardamos `0.5` y no la fecha de nacimiento (`DATE`)? 
-si la fecha de naciomiento si se perdiese atraves de pantalla azul de la muerte y por la deconetcion por la red por falta de wifi por que el codigo al no tener la fecha de nacimietos el sistema puede que piense que el valor 
+si la fecha de naciomiento si se perdiese atraves de pantalla azul de la muerte y por la deconetcion por la red por falta de wifi por que el codigo al no tener la fecha de nacimietos el sistema puede que piense que el valor 0.5,0.10,0.15 son los cumpleaño de la mascota 
 
 
 ## foto de la tabla
-
 
 <img width="4160" height="3120" alt="IMG_20260511_094535" src="https://github.com/user-attachments/assets/419ad079-6480-407e-b99e-8752d968d423" />
