@@ -1,6 +1,7 @@
 # esto es para el motor grafico 
 cada parte de codigo del motor grafico estara aqui con enlaces aunque me gustaria conocer mas el codigo de Python sin ayuda de la ia 
-como se me surgio mi idea simple antes usaba ursina antes de instalar c/c++ por que despues de instaslarlo dejo de funcionar
+
+¿como se me surgio mi idea?: simple antes usaba ursina antes de instalar c/c++ por que despues de instaslarlo dejo de funcionar
 
 
 
